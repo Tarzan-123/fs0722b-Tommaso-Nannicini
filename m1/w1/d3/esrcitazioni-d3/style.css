@@ -1,0 +1,139 @@
+.logo {
+    display: block;
+    margin: 0 auto;
+
+
+}
+
+.line{
+    border-color: aqua;
+}
+
+.subtile {
+    background-color:orange;
+    padding:  20px;
+    text-align: center
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    
+
+}
+
+.titolo {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.introduction{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+.focaccia{
+    display: block;
+    margin: 0 auto;
+
+}
+
+.image-copyright{
+    text-align: center;
+    color: gray;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+div.create-line, div.link1{
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+
+
+}
+div.create-line{
+    border-right: 1px solid #000;
+    padding-right: 20px
+
+}
+div.link1{
+    padding-left: 20 px;
+
+}
+
+.link1{
+
+    border-left-color:red;
+    margin-left: 20px;
+}
+
+.pretext{
+    color: red;
+}
+
+
+.link-cranberries {font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+       ;
+}
+
+
+
+.ingredients{
+    font-size: 100px;
+
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.line2
+{
+    border-color: aqua;
+
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+dd{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+
+.line3{
+    border-color: aqua;
+}
+
+.method{
+    font-size: 50px
+    ;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+
+}
+.text-method{font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+
+
+}
+#bold{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
