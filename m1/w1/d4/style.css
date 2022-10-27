@@ -1,0 +1,60 @@
+/* IMPOSTAZIONI GENERALI */
+html {font-size: 62.5%}
+body{;
+    font-family: poppins
+    background-image: url(sfondo.png);
+    font-size:
+    
+    font-family: 'Roboto', sans-serif;
+    max-width: 100%;
+
+}
+
+/* HEADER */
+
+#bg1{
+    background-color: rgb(3, 64, 64);
+    
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 5px #000;
+    display: inline-block;
+    float: none;
+    font-size: 50px;
+    padding-bottom: 10px;
+    color: white;
+    text-align: center;
+
+    
+}
+.menu{
+ù
+}
+
+
+
+
+
+/* MAIN */
+
+
+#bg2{
+
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
